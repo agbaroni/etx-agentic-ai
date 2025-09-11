@@ -10,7 +10,7 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    repoURL: https://github.com/redhat-ai-services/etx-agentic-ai.git
+    repoURL: https://github.com/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/etx-agentic-ai.git
     path: infra/applications/policy-collection/overlays/sno
     targetRevision: main
     plugin:
